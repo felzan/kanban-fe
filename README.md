@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/felzan/kanban-fe/main/kanban.png" height="130" width="130"/>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
