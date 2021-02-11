@@ -1,0 +1,19 @@
+.Card {
+    background-color: #CCCCCC;
+    width: auto;
+    border-radius: 8px;
+    padding: 15px 10px 2px 10px;
+    text-align: justify;
+    margin-top: 10px;
+}
+
+.Card h3 {
+    padding: 5px 4px;
+    margin-block-start: unset;
+    margin-block-end: unset;
+}
+
+.Card p {
+    padding: 5px 4px;
+    margin: 2px;
+}

@@ -1,0 +1,20 @@
+.Swimlane {
+    background-color: #E6E6E6;
+    width: 400px;
+    border-radius: 8px;
+}
+.Swimlane ol {
+    margin: 0 12px;
+    display: block;
+    list-style-type: none;
+    margin-block-start: unset;
+    margin-block-end: unset;
+    padding-inline-start: unset;
+    padding-bottom: 10px;
+}
+.Swimlane h2 {
+    margin-block-start: unset;
+    margin-block-end: unset;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}

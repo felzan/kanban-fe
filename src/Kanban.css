@@ -1,7 +1,20 @@
-.App {
+.Kanban {
   text-align: center;
 }
-
+.Kanban form {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+.Kanban input[type="text"] {
+  height: 30px;
+  width: 300px;
+}
+.Kanban textarea {
+  width: 300px;
+  height: 30px;
+  resize: none;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -13,9 +26,9 @@
   }
 }
 
-.App-header {
+.Kanban-header {
   background-color: #282c34;
-  min-height: 100vh;
+  min-height: 100px;
   display: flex;
   flex-direction: column;
   align-items: center;

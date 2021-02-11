@@ -1,0 +1,8 @@
+.Board {
+  text-align: center;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  max-width: 840px;
+  margin: 16px auto auto;
+}
