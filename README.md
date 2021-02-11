@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/felzan/kanban-fe/main/kanban.png" height="130" width="130"/>
+<img src="https://raw.githubusercontent.com/felzan/kanban-fe/main/kanban.png"/>
 
 # Getting Started with Create React App
 
